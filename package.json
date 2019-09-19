@@ -35,7 +35,7 @@
     "chalk": "^1.1.1",
     "download": "^4.4.1",
     "googleapis": "^16.1.0",
-    "humanize-url": "^1.0.1",
+    "humanize-url": "^2.1.0",
     "lodash": "^4.5.1",
     "meow": "^3.5.0",
     "pify": "^2.3.0",
