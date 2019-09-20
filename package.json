@@ -41,7 +41,7 @@
     "pify": "^2.3.0",
     "prepend-http": "^1.0.3",
     "pretty-bytes": "^4.0.2",
-    "sort-on": "^1.2.2",
+    "sort-on": "^4.1.0",
     "update-notifier": "^2.0.0"
   },
   "devDependencies": {
