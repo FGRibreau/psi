@@ -38,7 +38,7 @@
     "humanize-url": "^1.0.1",
     "lodash": "^4.5.1",
     "meow": "^3.5.0",
-    "pify": "^2.3.0",
+    "pify": "^4.0.1",
     "prepend-http": "^1.0.3",
     "pretty-bytes": "^4.0.2",
     "sort-on": "^1.2.2",
