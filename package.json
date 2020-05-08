@@ -37,7 +37,7 @@
     "googleapis": "^16.1.0",
     "humanize-url": "^1.0.1",
     "lodash": "^4.5.1",
-    "meow": "^3.5.0",
+    "meow": "^7.0.0",
     "pify": "^2.3.0",
     "prepend-http": "^1.0.3",
     "pretty-bytes": "^4.0.2",
